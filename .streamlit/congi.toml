@@ -1,0 +1,6 @@
+[theme]
+primaryColor = '#554bff"
+backgroundColor = "#021333" #Main dashboard background colour
+secondaryBackgroundColor = "#f34141" #sidebar and wiget background colour
+textColor = "#e8e9ef"  #Text colour
+base = "light"       #Choose "Light" or "dark" as a base
